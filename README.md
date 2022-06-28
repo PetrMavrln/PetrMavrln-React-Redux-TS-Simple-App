@@ -1,0 +1,1 @@
+# PetrMavrln-React-Redux-TS-Simple-App
